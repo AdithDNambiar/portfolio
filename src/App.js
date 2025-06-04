@@ -59,7 +59,7 @@ It features intuitive UI, local storage support, and real-time tag-based filteri
           </li>
           <li>
             <strong>Activity Tracker</strong><br />
-            Full-stack app using React, Node.js, and Firebase to automate daily invoice reminders via Gmail SMTP. Included admin dashboard, cron scheduling, and real-time status tracking.
+            Full-stack app using React, Node.js. User can add their data of activity and it will be shown in charts/graphs.
             <a href="https://github.com/AdithDNambiar/Activity-Tracker" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </li>
           <li>
