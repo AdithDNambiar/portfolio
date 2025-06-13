@@ -47,14 +47,18 @@ function App() {
         <h2>Projects</h2>
         <ul>
           <li>
+            <strong>Sunvoy Reverse Engineering Challenge (External Assessment)</strong><br />
+            Reverse-engineered a legacy app without public APIs using session cookies. Fetched and saved user data via internal API calls with clean JSON & CSV output.
+            <a href="https://github.com/AdithDNambiar/Sunvoy" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+          </li>
+          <li>
             <strong>Invoice Reminder Web App</strong><br />
             Full-stack app using React, Node.js, and Firebase to automate daily invoice reminders via Gmail SMTP. Included admin dashboard, cron scheduling, and real-time status tracking.
             <a href="https://github.com/AdithDNambiar/Invoice_reminder" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </li>
           <li>
             <strong>Cyanogen</strong><br />
-            Cyanogen is a personal task manager web app built using React that allows users to create, filter, and manage tasks with tags like Work, Personal, and Urgent.
-It features intuitive UI, local storage support, and real-time tag-based filtering for better productivity.
+            Cyanogen is a personal task manager web app built using React that allows users to create, filter, and manage tasks with tags like Work, Personal, and Urgent. It features intuitive UI, local storage support, and real-time tag-based filtering for better productivity.
             <a href="https://github.com/AdithDNambiar/Cyanogen" target="_blank" rel="noopener noreferrer">View on GitHub</a>
           </li>
           <li>
