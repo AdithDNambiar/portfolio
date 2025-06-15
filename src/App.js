@@ -23,6 +23,7 @@ function App() {
           <a href="#education">Qualifications</a>
           <a href="#internships">Internships</a>
           <a href="#contact">Contact</a>
+          <a href="#technicalpracticerepos">Technical Practice Repos</a>
         </div>
       </nav>
 
@@ -35,7 +36,7 @@ function App() {
           </p>
           <div className="hero-buttons">
             <button className="btn primary" onClick={handleResumePopup}>View Resume</button>
-            <a href="/Adith_Resume.pdf" download className="btn outline">Download Resume</a>
+            <a href="/ADITH_RESUME.pdf" download className="btn outline">Download Resume</a>
           </div>
         </div>
         <div className="hero-img">
@@ -84,15 +85,32 @@ function App() {
           
         </ul>
       </section>
+    
+      <section id="technicalpracticerepos">
+        <h2>Technical Practice Repos</h2>
+        <ul>
+          <li>
+            <strong>DSA Practice</strong><br />
+            <a href="https://github.com/AdithDNambiar/DSA" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+          </li>
+          <li>
+            <strong>SQL Repo</strong><br />
+            <a href="https://github.com/AdithDNambiar/SQL" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+          </li>
+          <li>
+            <strong>JWT Auth Demo</strong><br />
+            <a href="https://github.com/AdithDNambiar/jwt-auth-demo" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+          </li>
+        </ul>
+      </section>    
 
       <section id="skills">
         <h2>Skills</h2>
         <ul>
-          <li>JavaScript, Python, C, Java (basic)</li>
+          <li>JavaScript, Python, Java (basic)</li>
           <li>React, HTML, CSS</li>
-          <li>Node.js, Express.js</li>
+          <li>Node.js</li>
           <li>Firebase, MySQL</li>
-          <li>Hugging Face, PyTorch, TensorFlow (basic)</li>
           <li>Git, GitHub, Postman, Streamlit</li>
         </ul>
       </section>
