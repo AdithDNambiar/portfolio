@@ -48,6 +48,11 @@ function App() {
         <h2>Projects</h2>
         <ul>
           <li>
+            <strong>Hand Gesture Mouse (Laptop Camera Version)</strong><br />
+           Control your computer cursor using hand gestures — no physical mouse required! This project uses your laptop camera, OpenCV, and MediaPipe to track hand movement and perform mouse actions.
+            <a href="https://github.com/AdithDNambiar/Handgesture" target="_blank" rel="noopener noreferrer">View on GitHub</a>
+          </li>
+          <li>
             <strong>Sunvoy Reverse Engineering Challenge (External Assessment)</strong><br />
             Reverse-engineered a legacy app without public APIs using session cookies. Fetched and saved user data via internal API calls with clean JSON & CSV output.
             <a href="https://github.com/AdithDNambiar/Sunvoy" target="_blank" rel="noopener noreferrer">View on GitHub</a>
