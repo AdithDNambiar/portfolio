@@ -6,11 +6,13 @@ import Services from "./components/Services";
 import Projects from "./components/Projects";
 import TechStack from "./components/TechStack";
 import Contact from "./components/Contact";
+import WhyMe from "./components/WhyMe";
 
 function App() {
   return (
     <div className="app">
       <div className="bg-glow"></div>
+      <div className="cursor-glow"></div>
 
       <Navbar />
 
@@ -19,6 +21,8 @@ function App() {
       <Services />
 
       <Projects />
+
+      <WhyMe />
 
       <TechStack />
 

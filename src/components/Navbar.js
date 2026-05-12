@@ -7,6 +7,7 @@ export default function Navbar() {
         <a href="#home">HOME</a>
         <a href="#services">SERVICES</a>
         <a href="#projects">PROJECTS</a>
+        <a href="#whyme">WHYME</a>
         <a href="#tech">STACK</a>
         <a href="#contact">CONTACT</a>
       </div>

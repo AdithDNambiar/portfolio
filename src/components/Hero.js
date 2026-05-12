@@ -16,13 +16,13 @@ export default function Hero() {
           D NAMBIAR
         </h1>
 
-        <h2>SOFTWARE DEVELOPER</h2>
+        <h2>SOFTWARE DEVELOPER  </h2>
+        <h2> Building AI-Powered Web Applications & Startup MVPs </h2>
 
         <p className="hero-desc">
-          Building scalable web applications, AI-powered systems,
-          automation tools, and startup MVPs with modern technologies.
-          Focused on creating high-performance digital experiences for
-          businesses and founders.
+          I build scalable full-stack applications, AI-powered systems, automation tools, and modern digital products for startups, founders, and businesses.
+
+Focused on creating fast, clean, and high-performance experiences using React, Node.js, AI integrations, and modern web technologies.
         </p>
 
         <div className="hero-buttons">

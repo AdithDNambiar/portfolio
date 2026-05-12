@@ -1,18 +1,19 @@
 export default function TechStack() {
   const techs = [
-    "React",
-    "Node.js",
-    "JavaScript",
-    "Python",
-    "Firebase",
-    "MySQL",
-    "Git",
-    "MongoDB",
-    "PostegreSQL",
+    "REACT",
+    "NODE.JS",
+    "JAVASCRIPT",
+    "PYTHON",
+    "FIREBASE",
+    "MYSQL",
+    "GIT",
+    "MONGODB",
+    "POSTEGRESQL",
     "AI APIs",
-    "Streamlit",
-    "Vercel",
-    "Render",
+    "NEXT.JS",
+    "EXPRESS.JS",
+    "VERCEL",
+    "RENDER",
   ];
 
   return (
